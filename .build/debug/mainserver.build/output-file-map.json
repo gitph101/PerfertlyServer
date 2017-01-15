@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/mainserver.build/master.swiftdeps"
+  },
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Sources/mainserver/main.swift": {
+    "dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/mainserver.build/main.d",
+    "object": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/mainserver.build/main.swift.o",
+    "swiftmodule": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/mainserver.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/mainserver.build/main.swiftdeps"
+  }
+}

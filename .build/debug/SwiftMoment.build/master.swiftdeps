@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "53e2398fa4e8f1af801fc3029f8407f0"
+build_time: [537710896, 806262000]
+inputs:
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/SwiftMoment-0.9.1/Sources/SwiftMoment/Duration.swift": [537710868, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/SwiftMoment-0.9.1/Sources/SwiftMoment/Extensions.swift": [537710868, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/SwiftMoment-0.9.1/Sources/SwiftMoment/Moment.swift": [537710868, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/SwiftMoment-0.9.1/Sources/SwiftMoment/MomentFromNow.swift": [537710868, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/SwiftMoment-0.9.1/Sources/SwiftMoment/Operators.swift": [537710868, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/SwiftMoment-0.9.1/Sources/SwiftMoment/TimeUnit.swift": [537710868, 0]

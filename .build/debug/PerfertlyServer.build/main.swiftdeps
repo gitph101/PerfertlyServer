@@ -1,0 +1,339 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "server"
+- "routes"
+- "api"
+- "api1Routes"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "String"
+- "api1Routes"
+- "IntegerLiteralType"
+- "routes"
+- "FloatLiteralType"
+- "HTTPServer"
+- "UserDataSQL"
+- "LogFile"
+- "=="
+- "AssignmentPrecedence"
+- "api"
+- "PerfectError"
+- "print"
+- "server"
+- "StringLiteralType"
+- "Routes"
+- "UnicodeScalarType"
+depends-member:
+- ["Ps9AnyObject", "addRoutes"]
+- ["Ps9AnyObject", "documentRoot"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "insertUserInfo"]
+- ["Ps9AnyObject", "queryUserInfo"]
+- ["Ps9AnyObject", "serverPort"]
+- ["Ps9AnyObject", "start"]
+- ["Sa", "Iterator"]
+- ["Sa", "_Element"]
+- ["Sa", "deinit"]
+- ["C15PerfertlyServer11BaseDataSQL", "init"]
+- ["C15PerfertlyServer11BaseDataSQL", "insertUserInfo"]
+- ["C15PerfertlyServer11BaseDataSQL", "queryUserInfo"]
+- ["Ps23BidirectionalCollection", "Iterator"]
+- ["Ps23BidirectionalCollection", "_Element"]
+- ["Ps22BidirectionalIndexable", "Iterator"]
+- ["Ps22BidirectionalIndexable", "_Element"]
+- ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- ["Ps7CVarArg", "Iterator"]
+- ["Ps7CVarArg", "_Element"]
+- ["Ps7CVarArg", "init"]
+- ["Vs9Character", "deinit"]
+- ["Ps10Collection", "Iterator"]
+- ["Ps10Collection", "_Element"]
+- ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "Iterator"]
+- ["Ps28CustomDebugStringConvertible", "_Element"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- ["Ps17CustomReflectable", "Iterator"]
+- ["Ps17CustomReflectable", "_Element"]
+- ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "Iterator"]
+- ["Ps23CustomStringConvertible", "_Element"]
+- ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "get"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "post"]
+- ["Sd", "deinit"]
+- ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "get"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "post"]
+- ["Ps5Error", "networkError"]
+- ["Ps25ExpressibleByArrayLiteral", "Iterator"]
+- ["Ps25ExpressibleByArrayLiteral", "_Element"]
+- ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps32ExpressibleByStringInterpolation", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Sf", "deinit"]
+- ["O11PerfectHTTP10HTTPMethod", "deinit"]
+- ["O11PerfectHTTP10HTTPMethod", "get"]
+- ["O11PerfectHTTP10HTTPMethod", "post"]
+- ["P11PerfectHTTP11HTTPRequest", "deinit"]
+- ["P11PerfectHTTP11HTTPRequest", "param"]
+- ["P11PerfectHTTP11HTTPRequest", "queryParams"]
+- ["P11PerfectHTTP12HTTPResponse", "completed"]
+- ["P11PerfectHTTP12HTTPResponse", "deinit"]
+- ["P11PerfectHTTP12HTTPResponse", "setBody"]
+- ["C17PerfectHTTPServer10HTTPServer", "addRoutes"]
+- ["C17PerfectHTTPServer10HTTPServer", "deinit"]
+- ["C17PerfectHTTPServer10HTTPServer", "documentRoot"]
+- ["C17PerfectHTTPServer10HTTPServer", "init"]
+- ["C17PerfectHTTPServer10HTTPServer", "serverPort"]
+- ["C17PerfectHTTPServer10HTTPServer", "start"]
+- ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "get"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "post"]
+- ["Ps9Indexable", "Iterator"]
+- ["Ps9Indexable", "_Element"]
+- ["Ps13IndexableBase", "Iterator"]
+- ["Ps13IndexableBase", "_Element"]
+- ["Vs16IndexingIterator", "Element"]
+- ["Si", "deinit"]
+- ["Vs5Int16", "deinit"]
+- ["Vs5Int32", "deinit"]
+- ["Vs5Int64", "deinit"]
+- ["Vs4Int8", "deinit"]
+- ["Ps16IteratorProtocol", "Element"]
+- ["P10PerfectLib15JSONConvertible", "Iterator"]
+- ["P10PerfectLib15JSONConvertible", "_Element"]
+- ["P10PerfectLib15JSONConvertible", "_getBuiltinLogicValue"]
+- ["P10PerfectLib15JSONConvertible", "init"]
+- ["V13PerfectLogger7LogFile", "error"]
+- ["V13PerfectLogger7LogFile", "info"]
+- ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- ["Ps17MutableCollection", "Iterator"]
+- ["Ps17MutableCollection", "_Element"]
+- ["Ps16MutableIndexable", "Iterator"]
+- ["Ps16MutableIndexable", "_Element"]
+- ["PSo8NSCoding", "init"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "init"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["O10PerfectLib12PerfectError", "networkError"]
+- ["Ps22RandomAccessCollection", "Iterator"]
+- ["Ps22RandomAccessCollection", "_Element"]
+- ["Ps21RandomAccessIndexable", "Iterator"]
+- ["Ps21RandomAccessIndexable", "_Element"]
+- ["Ps26RangeReplaceableCollection", "Iterator"]
+- ["Ps26RangeReplaceableCollection", "_Element"]
+- ["Ps25RangeReplaceableIndexable", "Iterator"]
+- ["Ps25RangeReplaceableIndexable", "_Element"]
+- ["V11PerfectHTTP6Routes", "add"]
+- ["V11PerfectHTTP6Routes", "deinit"]
+- ["V11PerfectHTTP6Routes", "init"]
+- ["Ps8Sequence", "Element"]
+- ["Ps8Sequence", "Iterator"]
+- ["Ps8Sequence", "_Element"]
+- ["SS", "deinit"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- ["Su", "deinit"]
+- ["Vs6UInt16", "deinit"]
+- ["Vs6UInt32", "deinit"]
+- ["Vs6UInt64", "deinit"]
+- ["Vs5UInt8", "deinit"]
+- ["Sc", "deinit"]
+- ["C15PerfertlyServer11UserDataSQL", "deinit"]
+- ["C15PerfertlyServer11UserDataSQL", "init"]
+- ["C15PerfertlyServer11UserDataSQL", "insertUserInfo"]
+- ["C15PerfertlyServer11UserDataSQL", "queryUserInfo"]
+- ["Ps14_ArrayProtocol", "Iterator"]
+- ["Ps14_ArrayProtocol", "_Element"]
+- ["Ps24_DestructorSafeContainer", "Iterator"]
+- ["Ps24_DestructorSafeContainer", "_Element"]
+- ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "get"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "post"]
+- ["Ps21_ObjectiveCBridgeable", "Iterator"]
+- ["Ps21_ObjectiveCBridgeable", "_Element"]
+- ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- "C15PerfertlyServer11BaseDataSQL"
+- "Ps23BidirectionalCollection"
+- "Ps22BidirectionalIndexable"
+- "Sb"
+- "Ps7CVarArg"
+- "Vs9Character"
+- "Ps10Collection"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Sd"
+- "Ps9Equatable"
+- "Ps5Error"
+- "Ps25ExpressibleByArrayLiteral"
+- "Ps27ExpressibleByBooleanLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Sf"
+- "O11PerfectHTTP10HTTPMethod"
+- "P11PerfectHTTP11HTTPRequest"
+- "P11PerfectHTTP12HTTPResponse"
+- "C17PerfectHTTPServer10HTTPServer"
+- "Ps8Hashable"
+- "Ps9Indexable"
+- "Ps13IndexableBase"
+- "Vs16IndexingIterator"
+- "Si"
+- "Vs5Int16"
+- "Vs5Int32"
+- "Vs5Int64"
+- "Vs4Int8"
+- "Ps16IteratorProtocol"
+- "P10PerfectLib15JSONConvertible"
+- "V13PerfectLogger7LogFile"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "Ps17MutableCollection"
+- "Ps16MutableIndexable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "Sq"
+- "O10PerfectLib12PerfectError"
+- "Ps22RandomAccessCollection"
+- "Ps21RandomAccessIndexable"
+- "Ps26RangeReplaceableCollection"
+- "Ps25RangeReplaceableIndexable"
+- "V11PerfectHTTP6Routes"
+- "Ps8Sequence"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "Su"
+- "Vs6UInt16"
+- "Vs6UInt32"
+- "Vs6UInt64"
+- "Vs5UInt8"
+- "Sc"
+- "C15PerfertlyServer11UserDataSQL"
+- "Ps14_ArrayProtocol"
+- "Ps24_DestructorSafeContainer"
+- "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/MySQL.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/mysql/psi/psi_base.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/mysql/psi/psi_memory.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/my_alloc.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/typelib.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/mysql/plugin_auth_common.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/mysql/client_plugin.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/my_list.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/mysql_time.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/my_command.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/binary_log_types.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/mysql_com.h"
+- "/usr/local/Cellar/mysql/5.7.17/include/mysql/mysql_version.h"
+- "/usr/local/include/mysql/mysql.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/mysqlclient-2.0.0/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectLogger.swiftmodule"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectLib.swiftmodule"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/SwiftMoment.swiftmodule"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectHTTP.swiftmodule"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../ssl.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../srtp.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../ssl23.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../pqueue.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../dtls1.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../tls1.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../ssl3.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../ssl2.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../opensslconf.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../kssl.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../hmac.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../pem2.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../e_os2.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../pem.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../pkcs7.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../x509_vfy.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../sha.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../dh.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../dsa.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../rsa.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../ecdh.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../ecdsa.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../ec.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../bn.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../asn1.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../obj_mac.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../objects.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../evp.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../buffer.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../x509.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../comp.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../lhash.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../err.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../symhacks.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../ossl_typ.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../opensslv.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../safestack.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../stack.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../crypto.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/../bio.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/openssl.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/COpenSSL-2.0.2/COpenSSL/include/module.modulemap"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectNet.swiftmodule"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectThread.swiftmodule"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectHTTPServer.swiftmodule"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectHTTPServer-2.0.9/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectHTTPServer-2.0.9/Sources/CHTTPParser/include/module.modulemap"
+- "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectRequestLogger.swiftmodule"
+interface-hash: "18864f74d8d75ac9df12576974312efb"

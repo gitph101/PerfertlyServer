@@ -1,0 +1,64 @@
+[ERROR] [4d57a7ca-d2b6-4639-9233-5b16a7ba48fe] [2017-01-15 13:53:36 GMT+08:00] userName===nil
+[ERROR] [feecc35d-2d4d-462a-8488-5a7d27489b6a] [2017-01-15 13:53:39 GMT+08:00] userName===nil
+[ERROR] [9ac2220c-adad-41f5-87d7-b65b476769b0] [2017-01-15 13:53:43 GMT+08:00] userName===nil
+[ERROR] [1178503b-7aa0-456b-aed7-73a416f33bcd] [2017-01-15 13:53:52 GMT+08:00] userName===nil
+[ERROR] [dc0d7e15-6590-4f07-be64-8237119c24da] [2017-01-15 13:55:08 GMT+08:00] userName===nil
+[ERROR] [7673bd0d-4d70-45cf-802d-b830b000a730] [2017-01-15 14:00:28 GMT+08:00] userName===nil
+[ERROR] [bd23f72a-b45f-427f-bc75-53a5cdea3df5] [2017-01-15 14:00:40 GMT+08:00] password为nil
+[ERROR] [521c24ce-28ef-46a6-8548-ecc67ee563ec] [2017-01-15 14:01:38 GMT+08:00] userName===nil
+[ERROR] [f9db6a72-149d-416d-bd8a-1c45551199ba] [2017-01-15 14:02:56 GMT+08:00] eee为nil
+[ERROR] [86427b0c-1b6e-40eb-ac02-acd54a46495a] [2017-01-15 14:04:50 GMT+08:00] eee为nil
+[ERROR] [ccd3e57b-fabf-48f8-834d-fb06937b6ce3] [2017-01-15 14:04:50 GMT+08:00] AAA
+[ERROR] [e3778ca2-84d2-477f-b78d-7c48f340fc91] [2017-01-15 14:06:03 GMT+08:00] eee为nil
+[ERROR] [fda341d7-3a37-49b8-aff1-fd42a1e6a986] [2017-01-15 14:06:03 GMT+08:00] AAA
+[ERROR] [57391435-3dda-4bd7-b1d0-76e3b69aa274] [2017-01-15 14:06:03 GMT+08:00] BBB
+[ERROR] [35f9e2c3-03b8-412e-935c-8226f8580391] [2017-01-15 14:06:03 GMT+08:00] {"list":{},"result":"SUCCESS","errorMessage":""}
+[ERROR] [200cd088-9109-429d-a91c-29f110faf159] [2017-01-15 14:14:11 GMT+08:00] eee为nil
+[ERROR] [3d385c70-8262-4e31-b968-c4c58a60ee24] [2017-01-15 14:14:11 GMT+08:00] AAA
+[ERROR] [4f643a49-0015-46c5-bd79-c3f2c582a3f5] [2017-01-15 14:14:11 GMT+08:00] BBB
+[ERROR] [c43c806c-a559-43e8-a5f5-109f29db2ffb] [2017-01-15 14:14:11 GMT+08:00] {"list":{},"result":"SUCCESS","errorMessage":""}
+[ERROR] [3c24e9cc-210b-4589-8814-11b14c9b50c7] [2017-01-15 14:23:18 GMT+08:00] eee为nil
+[ERROR] [a98d178b-3ef0-4856-8c43-16787277b6c3] [2017-01-15 14:23:18 GMT+08:00] AAA
+[ERROR] [c41b3486-5ddb-4524-9f0c-65b7efeb9a24] [2017-01-15 14:23:18 GMT+08:00] select id, username from user where username = '中国'EEE
+[ERROR] [30efa9e2-dc3f-4203-ac18-b6c3696f635b] [2017-01-15 14:23:18 GMT+08:00] BBB
+[ERROR] [5ab3727e-e87a-4c4e-b3fe-960219a20c62] [2017-01-15 14:23:18 GMT+08:00] {"list":{},"result":"SUCCESS","errorMessage":""}
+[ERROR] [1288f806-f1ca-4a51-899f-baa7addf36ef] [2017-01-15 14:25:03 GMT+08:00] eee为nil
+[ERROR] [f8a224cf-1186-4618-9db3-6cf7b0585956] [2017-01-15 14:25:03 GMT+08:00] AAA
+[ERROR] [1c472b91-dcd0-4c1a-95ea-679892bcc28e] [2017-01-15 14:25:03 GMT+08:00] select id, username from user where username = '中国'EEE
+[ERROR] [e0ac3ed7-5257-4795-95bc-95da8c2648f7] [2017-01-15 14:25:03 GMT+08:00] BBB
+[ERROR] [407010ed-6b1b-4ed8-950f-242b86103125] [2017-01-15 14:25:03 GMT+08:00] {"list":{},"result":"SUCCESS","errorMessage":""}
+[ERROR] [2f4d4f7a-71cf-4287-82e1-7fba1d130555] [2017-01-15 18:53:33 GMT+08:00] [("userName", "123")]查询失败
+[ERROR] [c9dc3e12-997d-4831-a2c1-650857c10d17] [2017-01-15 18:54:04 GMT+08:00] [("userName", "123"), ("good", "234")]查询失败
+[ERROR] [b37de703-9f45-47e7-9759-ce33b8515806] [2017-01-15 19:41:37 GMT+08:00] [("userName", "123"), ("good", "234")]查询失败
+[INFO] [938ba44f-24fc-43e7-aed6-1401bd02064b] [2017-01-15 19:42:12 GMT+08:00] 执行SQL:insert into user (username, password) values ('123', '234')
+[ERROR] [d4c2adbf-6028-4a07-b3a2-1e8d3dc19b4d] [2017-01-15 19:42:12 GMT+08:00] Can't connect to MySQL server on '127.0.0.1' (61)
+[ERROR] [91f104f5-9333-427a-bce5-10b7c953dfa7] [2017-01-15 19:42:12 GMT+08:00] 数据库选择失败。错误代码：2006 错误解释：MySQL server has gone away
+[ERROR] [af1a329d-6503-41f9-b061-e1dfd5b8d392] [2017-01-15 19:42:12 GMT+08:00] insert into user (username, password) values ('123', '234')插入失败
+[INFO] [2b1a58c7-b1d0-4c8d-ac33-223bb696f5b5] [2017-01-15 20:10:42 GMT+08:00] 执行SQL:insert into user (username, password) values ('123', '234')
+[ERROR] [d6eeeee4-5a6d-4b26-b926-426ca7fe0f67] [2017-01-15 20:10:42 GMT+08:00] Access denied for user 'root'@'localhost' (using password: YES)
+[ERROR] [9ad62879-822b-454a-a29f-700672e66a83] [2017-01-15 20:10:42 GMT+08:00] 数据库选择失败。错误代码：2006 错误解释：MySQL server has gone away
+[ERROR] [91eefbd8-fee4-4eb2-a3b3-6cd1becab2c0] [2017-01-15 20:10:42 GMT+08:00] insert into user (username, password) values ('123', '234')插入失败
+[INFO] [1b8beeb1-380d-49cf-b042-4f6f886931e7] [2017-01-15 20:10:45 GMT+08:00] 执行SQL:insert into user (username, password) values ('123', '234')
+[ERROR] [515dca24-f867-49c6-943a-7c9456c486e6] [2017-01-15 20:10:45 GMT+08:00] insert into user (username, password) values ('123', '234')插入失败
+[INFO] [12b13464-05d1-44e7-9bce-dd0a52ae84a1] [2017-01-15 20:35:56 GMT+08:00] 执行SQL:insert into user (username, password) values ('123', '234')
+[ERROR] [0f71c0b1-bb23-4856-9395-73ec0a83fa62] [2017-01-15 20:35:56 GMT+08:00] Access denied for user 'root'@'localhost' (using password: YES)
+[ERROR] [6a069ccb-f1af-4f98-ae85-c4989e3c31a4] [2017-01-15 20:35:56 GMT+08:00] 数据库选择失败。错误代码：2006 错误解释：MySQL server has gone away
+[ERROR] [8e3089aa-3afb-4bd8-a4ba-083fb205b619] [2017-01-15 20:35:56 GMT+08:00] insert into user (username, password) values ('123', '234')插入失败
+[INFO] [989fcd70-7c19-4882-bd73-3ef85633d135] [2017-01-15 20:35:59 GMT+08:00] 执行SQL:insert into user (username, password) values ('123', '234')
+[ERROR] [c6b29b58-3a18-499c-9221-44d96b5059ae] [2017-01-15 20:35:59 GMT+08:00] insert into user (username, password) values ('123', '234')插入失败
+[INFO] [41c40d19-3c51-4510-9cab-0a8bd4b8d270] [2017-01-15 20:43:46 GMT+08:00] 执行SQL:insert into user (username, password) values ('123', '234')
+[ERROR] [04964907-d3b7-438a-b816-9de0bd3040fa] [2017-01-15 20:43:46 GMT+08:00] Access denied for user 'root'@'localhost' (using password: YES)
+[ERROR] [2ebc6a76-46ae-42fe-859f-8974cd53033b] [2017-01-15 20:43:46 GMT+08:00] 数据库选择失败。错误代码：2006 错误解释：MySQL server has gone away
+[ERROR] [fa13cd2c-7275-469b-98e3-0ae42a287d76] [2017-01-15 20:43:46 GMT+08:00] insert into user (username, password) values ('123', '234')插入失败
+[INFO] [c38c8757-6e33-4214-acf3-5b57e9e5ac7d] [2017-01-15 21:17:24 GMT+08:00] 执行SQL:insert into user (username, password) values ('123', '234')
+[INFO] [c5b8cc5f-9865-40cd-a98b-bc10148906d1] [2017-01-15 21:17:24 GMT+08:00] 数据库连接成功
+[ERROR] [9466193a-3e2a-4302-a9a3-36b79bbdbb54] [2017-01-15 21:17:24 GMT+08:00] 数据库选择失败。错误代码：1049 错误解释：Unknown database 'perfect_note'
+[ERROR] [5dd78af5-2d8d-49d3-a13c-23ddc4c55079] [2017-01-15 21:17:24 GMT+08:00] insert into user (username, password) values ('123', '234')插入失败
+[INFO] [6350c40f-79ed-43ad-afde-3e87af9a3285] [2017-01-15 21:17:25 GMT+08:00] 执行SQL:insert into user (username, password) values ('123', '234')
+[ERROR] [37136f02-79a1-4048-92a4-2ad876be1179] [2017-01-15 21:17:25 GMT+08:00] insert into user (username, password) values ('123', '234')插入失败
+[INFO] [e0197f66-0264-4414-970c-9d6d83ab2198] [2017-01-15 21:17:29 GMT+08:00] 执行SQL:insert into user (username, password) values ('123', '234')
+[ERROR] [cae6b2c3-6a22-4f87-b1aa-5be14854a6f7] [2017-01-15 21:17:29 GMT+08:00] insert into user (username, password) values ('123', '234')插入失败
+[INFO] [4df82555-caec-458f-b8e3-b504fdedd20f] [2017-01-15 23:57:08 GMT+08:00] 执行SQL:insert into user (username, password) values ('123', '234')
+[INFO] [869d3b8f-a229-42df-bd77-b970a61f2482] [2017-01-15 23:57:08 GMT+08:00] 数据库连接成功
+[INFO] [b7a5c9be-482d-4e92-9df7-4c7552ead846] [2017-01-15 23:57:08 GMT+08:00] 连接Schema：perfect_note成功
+[ERROR] [80214e12-d13b-41b0-b5af-e3d98cd7fe5f] [2017-01-15 23:57:08 GMT+08:00] insert into user (username, password) values ('123', '234')插入失败

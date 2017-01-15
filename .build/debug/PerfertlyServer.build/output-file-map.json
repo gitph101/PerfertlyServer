@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/master.swiftdeps"
+  },
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Sources/main.swift": {
+    "dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/main.d",
+    "object": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/main.swift.o",
+    "swiftmodule": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/main.swiftdeps"
+  },
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Sources/MySQLConnect.swift": {
+    "dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/MySQLConnect.d",
+    "object": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/MySQLConnect.swift.o",
+    "swiftmodule": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/MySQLConnect~partial.swiftmodule",
+    "swift-dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/MySQLConnect.swiftdeps"
+  },
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Sources/PerfertlyServerTools.swift": {
+    "dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/PerfertlyServerTools.d",
+    "object": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/PerfertlyServerTools.swift.o",
+    "swiftmodule": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/PerfertlyServerTools~partial.swiftmodule",
+    "swift-dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfertlyServer.build/PerfertlyServerTools.swiftdeps"
+  }
+}

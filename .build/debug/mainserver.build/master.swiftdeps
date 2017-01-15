@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "b3d02e7e82c27b921999aef0872b658f"
+build_time: [537678885, 232110000]
+inputs:
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Sources/mainserver/main.swift": [537678504, 0]

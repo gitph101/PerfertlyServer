@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectThread.build/master.swiftdeps"
+  },
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectThread-2.0.4/Sources/Threading.swift": {
+    "dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectThread.build/Threading.d",
+    "object": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectThread.build/Threading.swift.o",
+    "swiftmodule": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectThread.build/Threading~partial.swiftmodule",
+    "swift-dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectThread.build/Threading.swiftdeps"
+  },
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectThread-2.0.4/Sources/ThreadQueue.swift": {
+    "dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectThread.build/ThreadQueue.d",
+    "object": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectThread.build/ThreadQueue.swift.o",
+    "swiftmodule": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectThread.build/ThreadQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/.build/debug/PerfectThread.build/ThreadQueue.swiftdeps"
+  }
+}

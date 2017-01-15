@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "751382b759587e6c4f7ccdbc8ada55ab"
+build_time: [537640931, 807142000]
+inputs:
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectLib-2.0.5/Sources/PerfectLib/Bytes.swift": [537638286, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectLib-2.0.5/Sources/PerfectLib/Dir.swift": [537638286, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectLib-2.0.5/Sources/PerfectLib/File.swift": [537638286, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectLib-2.0.5/Sources/PerfectLib/JSONConvertible.swift": [537638286, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectLib-2.0.5/Sources/PerfectLib/Log.swift": [537638286, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectLib-2.0.5/Sources/PerfectLib/PerfectError.swift": [537638286, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectLib-2.0.5/Sources/PerfectLib/PerfectServer.swift": [537638286, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectLib-2.0.5/Sources/PerfectLib/SwiftCompatibility.swift": [537638286, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectLib-2.0.5/Sources/PerfectLib/SysProcess.swift": [537638286, 0]
+  "/Users/keynote/Documents/iOS/Swift/SwiftServer/PerfertlyServer/Packages/PerfectLib-2.0.5/Sources/PerfectLib/Utilities.swift": [537638286, 0]
